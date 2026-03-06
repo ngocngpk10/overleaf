@@ -44,7 +44,7 @@ We have detailed installation instructions in the [Overleaf Toolkit](https://git
 
 If you are upgrading from a previous version of Overleaf, please see the [Release Notes section on the Wiki](https://github.com/overleaf/overleaf/wiki#release-notes) for all of the versions between your current version and the version you are upgrading to.
 
-## Overleaf Docker Image
+## Overleaf Docker Image.
 
 This repo contains two dockerfiles, [`Dockerfile-base`](server-ce/Dockerfile-base), which builds the
 `sharelatex/sharelatex-base` image, and [`Dockerfile`](server-ce/Dockerfile) which builds the
